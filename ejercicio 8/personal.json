@@ -1,0 +1,58 @@
+{
+    "__class__":"Manejador",
+    "Personal":[
+        {
+            "clase": "PersonaldeApoyo",
+            "atributos": {
+                "cuil":"13-34765187-3",
+                "apellido":"Rodriguez",
+                "nombre":"Franco",
+                "sueldobasico":34600,
+                "antiguedad":3,
+                "categoria":1
+            }
+        },
+        {
+            "clase": "Docente",
+            "atributos": {
+                "cuil":"20123565214",
+                "apellido":"Perez",
+                "nombre":"Marisa",
+                "sueldobasico":35000,
+                "antiguedad":6,
+                "carrera":"antiguedadLCC",
+                "cargo":"Exclusivo",
+                "catedra":"Licenciatura en ciencias de la computacion"
+            }
+        },
+        {
+            "clase": "Investigador",
+            "atributos": {
+                "cuil": "15-15634765-3",
+                "apellido": "Garcia",
+                "nombre": "Silvia",
+                "sueldobasico": 35000,
+                "antiguedad": 4,
+                "area": "Sistemas",
+                "tipo": "CONICET"
+            }
+        },
+        {
+            "clase": "DocenteInvestigador",
+            "atributos": {
+                "cuil":"10-20046541-2",
+                "apellido":"Martinez",
+                "nombre":"Lara",
+                "sueldobasico":42974,
+                "antiguedad":13,
+                "area": "Sistemas",
+                "tipo": "CONICET",
+                "carrera":"LSI",
+                "cargo":"Semiexclusivo",
+                "catedra":"Licenciatura en ciencias de la computacion",
+                "categoriaprogramainvestigacion":"2",
+                "importeextra":"13000"
+            }
+        }
+    ]
+}
